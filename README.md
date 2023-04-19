@@ -68,3 +68,7 @@ Disk Usage                      : Free 66.04GB, Total 79.79GB
 File System                     : Ext4
 License Status                  : Valid
 ```
+
+
+## Note
+You'll impersonate the postgres user on the FS, so won't expect any root/admin grants/capabilities over the FS.
