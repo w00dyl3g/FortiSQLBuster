@@ -1,5 +1,5 @@
 # FortiSQLBuster
-A FortiAnalyzer file and directory contents lister tool.
+A FortiAnalyzer file and directory contents lister tool that bypass /bin/cli restricted shell.
 
 ## Description
 FortiSQLBuster abuse postgresDB via *execute sql-query-generic* cli command to list and get file/directory contents on the file system.
