@@ -46,7 +46,6 @@ This tool will try automatically to list directory content or to print file cont
 
 ## Tested on:
 ```bash
-└─$ python3 FortiSQLBuster.py
 <REDACTED> # get system status
 Platform Type                   : FAZVM64
 Platform Full Name              : FortiAnalyzer-VM64
